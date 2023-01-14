@@ -1,5 +1,36 @@
+body{
+  background-color: #999;
+}
+
 .App {
   text-align: center;
+}
+
+div{
+  box-sizing: border-box;
+}
+
+
+
+.black-nav{
+  display: flex;
+  background-color: black;
+  width: 100%;
+  color:white;
+  padding-left: 20px;
+}
+
+.list{
+  padding-left: 20px;
+  text-align: left;
+  border-bottom: 1px solid gray;
+}
+
+.modal{
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #eee;
+  text-align: left;
 }
 
 .App-logo {
