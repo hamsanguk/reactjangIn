@@ -24,9 +24,15 @@ div{
   padding-left: 20px;
   text-align: left;
   border-bottom: 1px solid gray;
+  align-items: center;
+}
+.list span{
+padding-left: 20px;
 }
 
+
 .modal{
+  width: 500px;
   margin-top: 20px;
   padding: 20px;
   background-color: #eee;
